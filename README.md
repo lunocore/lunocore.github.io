@@ -1,2 +1,14 @@
-# lunocore.github.io
-The official repository is created for beta testing and commercial use with the support of “github pages” and web technologies.
+# LunoCore Website
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Build Status](https://img.shields.io/travis/lunocore/lunocore.github.io/master.svg?style=flat)](https://travis-ci.org/lunocore/lunocore.github.io)
+
+Short description of your project.
+
+## Installation
+
+Instructions for installing and running the project.
+
+## Usage
+
+Examples of how to use your project.
